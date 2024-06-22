@@ -1,0 +1,2 @@
+# GraduateEmploymentInformationManagementSystem
+ 基于ssm的毕业生就业信息管理系统：角色分为管理员、学生、教师；集成招聘信息浏览，在线应聘，岗位发布等功能于一体的系统
